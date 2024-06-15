@@ -1,2 +1,2 @@
 # codingSession
-Source code of videos 
+Source code of playList coding session 
